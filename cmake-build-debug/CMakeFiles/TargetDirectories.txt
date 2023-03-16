@@ -1,0 +1,3 @@
+C:/Users/ivipn/CLionProjects/MortalKombatC/cmake-build-debug/CMakeFiles/MortalKombatC.dir
+C:/Users/ivipn/CLionProjects/MortalKombatC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivipn/CLionProjects/MortalKombatC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

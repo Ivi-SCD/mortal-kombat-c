@@ -1,5 +1,21 @@
 # ninja log v5
-0	64	7006300978857183	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
-65	174	7006300979913408	MortalKombatC.exe	e6ccbb0f9ca2ab0b
-7	596	7006313348230120	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
-596	1550	7006313357724547	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	100	7010535383674349	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+100	222	7010535384864137	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	87	7010536142106287	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+87	201	7010536143210787	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	90	7010536902916851	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+91	278	7010536904736378	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	322	7010561777299801	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+322	512	7010561778891645	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	271	7010562208098233	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+272	428	7010562209626037	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	336	7010563687418320	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+336	467	7010563688702903	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	326	7010567962779969	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+326	577	7010567965256711	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	101	7010569056010377	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+101	230	7010569057271997	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+2	112	7010570824506522	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+112	230	7010570825648044	MortalKombatC.exe	e6ccbb0f9ca2ab0b
+1	287	7010578973878646	CMakeFiles/MortalKombatC.dir/main.c.obj	68d326b395ae0e0b
+287	531	7010578976142173	MortalKombatC.exe	e6ccbb0f9ca2ab0b
